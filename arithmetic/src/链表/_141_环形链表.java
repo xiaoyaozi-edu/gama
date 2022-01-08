@@ -8,12 +8,6 @@ package 链表;
  */
 public class _141_环形链表 {
 
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
-
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null || head.next.next == null) {
             return false;

@@ -8,12 +8,6 @@ package 链表;
  */
 public class _206_反转链表 {
 
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
-
     public static ListNode reverseList(ListNode head) {
         ListNode temp = null, next;
         while (head != null) {
