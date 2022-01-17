@@ -1,6 +1,5 @@
 package 频率排序;
 
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -11,6 +10,7 @@ import java.util.List;
  */
 public class _13_22_括号生成 {
     public List<String> generateParenthesis(int n) {
-
+        // todo
+        return null;
     }
 }

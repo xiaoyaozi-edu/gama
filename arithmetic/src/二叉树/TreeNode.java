@@ -7,9 +7,9 @@ package 二叉树;
  * createTime: 2021-12-26 11:26
  */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     TreeNode() {
     }
