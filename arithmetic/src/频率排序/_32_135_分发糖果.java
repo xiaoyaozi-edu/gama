@@ -8,6 +8,6 @@ package 频率排序;
  */
 public class _32_135_分发糖果 {
     public int candy(int[] ratings) {
-
+        return 0;
     }
 }
